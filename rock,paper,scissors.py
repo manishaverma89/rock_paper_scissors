@@ -1,4 +1,4 @@
-import random
+import random    # import random module
 rock = '''
     _______
 ---'   ____)
